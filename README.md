@@ -172,7 +172,7 @@ Enables root cause analysis of growth fluctuations and long-term trend validatio
 ---
 
 # 📁 Repository Structure
-/Credit-Card-Portfolio-Performance-Analysis
+Credit-Card-Portfolio-Performance-Analysis
 │
 ├── Credit_Card_Portfolio_Analysis.pbix
 ├── credit_card_transactions.csv
